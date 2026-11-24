@@ -13,3 +13,10 @@ Good ending- find the thieves
 Bad ending- you let the thief’s escape 
 
 Secret ending- you steal the duck 
+<h1>Team Memebers and roles</h1>
+Isabella - CSS and flow chart
+
+John - JavaScript and HTML<br>
+Joseph - JavaScript and HTML
+
+<h1>Story Flow Chart</h1>
