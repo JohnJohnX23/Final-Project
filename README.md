@@ -20,3 +20,21 @@ John - JavaScript and HTML<br>
 Joseph - JavaScript and HTML
 
 <h1>Story Flow Chart</h1>
+flowchart TB<br>
+    A(["start"])-->B[backstory]<br>
+    B[backstory] --> C[evidence from crime scene]<br>
+    C --> D{Who will you arrest}<br>
+    D --> E[arrest the thieves]<br>
+    D --> F[let the theives go]<br>
+    D --> G[steal the duck for yourself]<br>
+    E --> H(Ending 1)<br>
+    F --> I(Ending 2)<br>
+    G --> J{Do you get Away with it?}<br>
+    J --> K(good ending)<br>
+    J --> L(bad ending)<br>
+    H --> M([END])<br>
+    I --> M<br>
+    K --> M<br>
+    L --> M
+
+
