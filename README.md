@@ -1,6 +1,6 @@
 # Final-Project
 STORY
-(idea)The priceless magic rubber duck has been stolen from the Royal Museum of Oddities. This is no ordinary rubber duck; it is said to be able to grant one wish to the owner of the duck. 
+(idea) The priceless magic rubber duck has been stolen from the Royal Museum of Oddities. This is no ordinary rubber duck; it is said to be able to grant one wish to the owner of the duck. 
 
 You play the role of a detective investigating the theft of the duck. 
 
